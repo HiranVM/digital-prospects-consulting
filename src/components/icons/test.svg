@@ -1,0 +1,21 @@
+<svg
+      viewBox="0 0 24 24"
+      fill="none"
+      className={className}
+      xmlns="http://www.w3.org/2000/svg"
+      {...props}
+    >
+      <g clipPath="url(#clip0)">
+        <path
+          d="M20.1682 3.21366C15.4391 -1.18197 8.07988 -1.0475 3.51444 3.51769C-1.051 8.08313 -1.18522 15.4423 3.21041 20.1714L20.1682 3.21366Z"
+          fill="currentColor"
+        />
+        {/* keep other paths same */}
+      </g>
+
+      <defs>
+        <clipPath id="clip0">
+          <rect width="24" height="24" />
+        </clipPath>
+      </defs>
+    </svg>
