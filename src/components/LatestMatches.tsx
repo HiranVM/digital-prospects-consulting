@@ -81,7 +81,7 @@ const matches: Match[] = [
     },
     team2: {
       name: "NY Yorks",
-      logo: "/images/FC_leic.png",
+      logo: "/images/FC_Leic.png",
     },
     time: "5:00 PM",
     location: "London",
